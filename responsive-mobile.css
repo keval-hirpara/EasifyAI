@@ -1,0 +1,98 @@
+
+
+@media (max-width:767px) {
+    .home-elem-1 {
+        background-image: linear-gradient(270deg, rgba(255, 255, 255, 0)0%, rgba(0, 0, 0, 0.69)80.7%), linear-gradient(180deg, rgba(0, 0, 0, 0.49)0%, rgba(181, 255, 252, 0)39.300000000000004%), url(https://res.cloudinary.com/dbyioi2qq/q_auto/v1686239015/static/artem-zhukov-xdirvoucthi-unsplashjpg_1686238912_72834.jpg);
+        background-attachment: scroll, scroll, scroll;
+        min-height: fit-content
+    }
+
+    .home-elem-3 {
+        padding: 0px 0px 0px 0px
+    }
+
+    .home-elem-2 {
+        padding: 32px 16px 32px 16px;
+        flex-direction: column;
+        align-items: center;
+        background-color: #000000ff
+    }
+
+    .home-elem-12 {
+        width: auto;
+        height: auto
+    }
+
+    .home-elem-13 {
+        width: auto;
+        height: auto
+    }
+
+    .home-elem-21 {
+        flex-wrap: wrap
+    }
+
+    .home-elem-24 {
+        flex-wrap: wrap;
+        row-gap: 20px
+    }
+
+    .home-elem-30 {
+        flex-direction: column-reverse;
+        flex-wrap: wrap
+    }
+
+    .home-elem-27 {
+        flex-wrap: wrap;
+        row-gap: 20px
+    }
+
+    .home-elem-36 {
+        flex-wrap: wrap
+    }
+
+    .home-elem-33 {
+        flex-wrap: wrap;
+        row-gap: 20px
+    }
+
+    .home-elem-38 {
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-items: center;
+        row-gap: 30px
+    }
+
+    .home-elem-39 {
+        align-items: center;
+        max-width: none
+    }
+
+    .home-elem-41 {
+        text-align: left;
+        width: 100%
+    }
+
+    .home-elem-44 {
+        align-items: stretch
+    }
+
+    .home-elem-45 {
+        justify-content: flex-start;
+        margin-left: 1px
+    }
+
+    .home-elem-46 {
+        width: auto;
+        height: auto
+    }
+
+    .home-elem-47 {
+        width: auto;
+        height: auto
+    }
+
+    .home-elem-49 {
+        text-align: center
+    }
+}
